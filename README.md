@@ -6,6 +6,8 @@
 
 Netflix Movies and TV Shows
 
+---
+
 ## 📌 Objective
 
 The goal of this task was to clean and preprocess a raw dataset by handling missing values, removing duplicates, standardizing formats, and preparing it for analysis.
